@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-setup(name='InterestingAWSActions',
+setup(name='aws-interesting-api-calls',
     version='0.1',
     description='Module inventorying AWS API calls of significance to security',
     url='https://github.com/jchrisfarris/aws-interesting-api-calls',
